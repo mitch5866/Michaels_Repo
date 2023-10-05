@@ -1,0 +1,12 @@
+@import url('https://mitch5866.github.io/Michaels_Repo/');
+
+.head{
+    font-weight: 300;
+    justify-content: center;
+}
+
+.body{
+    justify-content: center;
+    background-color: lightgreen;
+    font-family: arial;
+}
