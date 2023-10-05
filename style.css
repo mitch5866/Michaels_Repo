@@ -1,5 +1,3 @@
-@import url('https://mitch5866.github.io/Michaels_Repo/');
-
 .head{
     font-weight: 300;
     justify-content: center;
@@ -7,6 +5,10 @@
 
 .body{
     justify-content: center;
-    background-color: lightgreen;
+    background-color: #CC9966;
     font-family: arial;
+}
+
+.img{
+    justify-content: center;
 }
