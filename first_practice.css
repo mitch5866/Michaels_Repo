@@ -1,14 +1,9 @@
-head{
-    font-weight: 300;
-    justify-content: center;
-}
-
 body{
-    justify-content: center;
+    text-align: center;
     background-color: #CC9966;
     font-family: arial;
 }
 
 img{
-    justify-content: center;
+    text-align: center;
 }
